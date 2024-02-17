@@ -64,5 +64,7 @@ py -m pip install numpy
 - [Basic statistics](http://resourcelists.glos.ac.uk/items/5FF2D271-F01E-FF1C-93A1-5C9FB8069C9D.html) :large_blue_circle:
 - [Probability theory: a comprehensive course](http://resourcelists.glos.ac.uk/items/A6D07224-0831-7CCC-1284-42825D99CF49.html) :large_blue_circle:
 - [Hypothesis testing reconsidered](http://resourcelists.glos.ac.uk/items/C10ED215-8D3D-274E-7A28-3F3D1CC01005.html) :large_blue_circle:
+  
 :red_circle: = Essential 
+
 :large_blue_circle: = Recommended 
