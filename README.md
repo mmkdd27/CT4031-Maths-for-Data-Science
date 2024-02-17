@@ -1,4 +1,4 @@
-# CT4031-Maths-for-Data-Science
+# CT4031 Maths for Data Science
 CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - **Module Tutor:**  Zainab Loukil (Dr) :woman_teacher:
 ## Student Information:
