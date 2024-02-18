@@ -6,21 +6,79 @@ CT4029 Principles of Programming (FHM FHM_SEM1 - 2023/24) :notebook:
 - **Student Number:** 4326630 :mortar_board:
 - **Email:** mohammadkadkhodazadeh@connect.glos.ac.uk :email:
 > **_If you are a student and want to collaborate or have a question don't hesitate to message me on WhatsApp! +98 9025635100_**
+
+## Practical Work 
+- ## Week 1 Introduction to Data Science :bar_chart:
+  - [Practical Exercises](./Week%201/Week%201%20-%20Practical.pdf)
+  - Moodle Demos
+    - [Recap Code Blocks](./Week%201/Moodle%20Examples/recap1-1.py)
+    - [High Low Game](./Week%201/Moodle%20Examples/hilo1.py)
+    - [Factorial Calculator](./Week%201/Moodle%20Examples/fac.py)
+- ## Week 2 Maths, Data Science and Computer Science Applications	🔢 💻
+  - [Practical Exercises](./Week%202/Week%202%20-%20Practical.pdf)
+- ## Week 3  Data Cleaning :broom:    
+  - [Practical Exercises](./Week%203/Week%203%20-%20Data%20Cleaning%20Practical.pdf)
+  - Moodle Demos
+    - [1-missing_values.py](./Week%203/Examples/1-missing_values.py)
+    - [2-missing_values.py](./Week%203/Examples/2-missing_values.py)
+    - [3-dropping col.py](./Week%203/Examples/3-dropping%20col.py)
+    - [4-change_index.py](./Week%203/Examples/4-change_index.py)
+    - [5-fields.py](./Week%203/Examples/5-fields.py)
+    - [6-cols.py](./Week%203/Examples/6-cols.py)
+    - [7-skip-rows.py](./Week%203/Examples/7-skip-rows.py)
+    - [clean.py](./Week%203/Examples/clean.py)
+    - [merge.py](./Week%203/Examples/merge.py)
+- ## Week 4 EDA and Visualisation 📈
+  - [Practical Exercises](./Week%204/Week%204%20-%20EDA_practical.pdf)
+  - Moodle Demos
+    - [1-boxplot.py](./Week%204/Examples/1-boxplot.py)
+    - [2-full_example.py](./Week%204/Examples/2-full_example.py)
+    - [3-histogram.py](./Week%204/Examples/3-histogram.py)
+    - [4-scatter_plots1.py](./Week%204/Examples/4-scatter_plots1.py)
+    - [4-scatter_plots2.py](./Week%204/Examples/4-scatter_plots2.py)
+- ## Week 5 Probability Theory – Part 1 – Introduction 🎲
+  - [Practical Exercises](./Week%205/Week%205%20-%20Practical.pdf)
+  - Moodle Demos
+     - [bayes_theorem.py](Week%205/Examples/bayes_theorem.py) 
+- ## Week 6 Probability Theory – Part 2 – Uncertainty and Bayes Classifiers 🎲
+  - [Practical Exercises](./Week%206/Week%206%20-%20Practical.pdf)
+  - Moodle Demos
+    - [Bernoulli-example.py](Week%206/Examples/Bernoulli-example.py)
+    - [Multinomial Naive Bayes.py](./Week%206/Examples/Multinomial%20Naive%20Bayes.py)
+    - [Naive_Bayes_Classifier_example.py](./Week%206/Examples/Naive_Bayes_Classifier_example.py)
+- ## Week 7 Probability Theory – Part 3 – Bayesian Net 🎲
+  - [Practical Exercises](./Week%207/Week%207%20-%20Practical.pdf)
+  - Moodle Demos
+     - [Monty_Hall_Problem.py](./Week%207/Examples/Monty_Hall_Problem.py)
+- ## Week 8 Probability Theory – Part 4 – Markov chains  🎲 
+  - [Practical Exercises](./Week%208/Week%208%20%E2%80%93%20Practical.pdf)
+  - Moodle Demos
+    - [markov.py](./Week%208/Examples/markov.py) 
+- ## Week 9 Hypothesis and Statistical Tests 📊 📈
+  - [Practical Exercises](./Week%209/Week%209%20-%20Practical.pdf)
+  - Moodle Demos
+    - [Test-2-samples.py](./Week%209/Examples/Test-2-samples.py)
+    - [Z-Test.py](./Week%209/Examples/Z-Test.py)
+
+
+
+
+
  
  ## lectures: :book:
-- Session 1 []()
-- Session 2: []()
-- Session 3: []()
-- Session 4: []()
-- Session 6: []()
-- Session 7: []()
-- Session 8: []()
-- Session 9: []()
-- session 10:[]()
+- Session 1: [Introduction to Data Science](./Lectures/Week%201%20-%20Introduction%20to%20Data%20Science.pdf)
+- Session 2: [Applications of Data Science](./Lectures/Week%202%20-%20Applications%20of%20Data%20Science.pdf)
+- Session 3: [Data Cleaning](./Lectures/Week%203%20-%20Data%20Cleaning.pdf)
+- Session 4: [EDA](./Lectures/Week%204%20-%20EDA.pdf)
+- Session 5: [Probability part 1](./Lectures/Week%205%20-%20Probability%20part%201.pdf)
+- Session 6: [Probability part 2](./Lectures/Week%206%20-%20Probability%20part%202.pdf)
+- Session 7: [Probability part 3](./Lectures/Week%207%20-%20Probability%20part%203%20-%20updated%20(2).pdf)
+- Session 8: [Probability Part 4](./Lectures/Week%208%20%E2%80%93%20Probability%20Part%204.pdf)
+- Session 9: [Hypothesis and statistical tests](./Lectures/Week%209%20-%20Hypothesis%20and%20statistical%20tests.pptx)
 
 ### Install External libraries :
 
-copy and paste the code below into Windows command line 
+copy and paste the code below into the Windows command line 
 ```shell
 py -m pip install --upgrade pip
 py -m pip install pandas
@@ -28,7 +86,7 @@ py -m pip install matplotlib
 py -m pip install numpy
 ```
 ## Scheme of work
-### [Read full Module Guide here ]()
+### [Read full Module Guide here ](./Resources/CT4031-ModuleGuide-2023_24.docx)
 
 | ID | Topic                                                           | Practical Work | Day  taught |
 |----|-----------------------------------------------------------------|----------------|-------------|
