@@ -1,0 +1,23 @@
+Probability of having a zero-trust architecture
+	10,000 cases
+	1,000 zero-trust architectures
+	P(Z) = 0.1
+
+Probability of trojan infecting a network
+	10,000 cases
+	3,000 trojan infections
+	P(T)=0.3
+
+Probability of a trojan infecting a network with zero-trust architecture
+	10,000 cases
+	20 trojan infections
+	P(T|Z)=0.002
+
+Probability that a zero-trust architecture is infected by a trojan?
+	P(A|B) = P(B|A) * P(A) / P(B)
+	P(Z|T) = P(T|Z) * P(Z) / P(T)
+	P(Z|T) = 0.002 * 0.1 / 0.3
+	P(Z|T) = 0.00067
+
+
+
